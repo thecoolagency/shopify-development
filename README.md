@@ -9,9 +9,9 @@
 
 I specialize in creating custom Shopify themes that are optimized for performance and mobile/desktop compatibility. My themes are coded by hand using the latest Shopify 2.0 standards and best practices, ensuring that your store will be fast, secure, and easy to use.
 
-1. Pricing
+#### 1. Pricing
 
-Tier 1: Basic Theme ($1200-$2250)
+Tier 1: Basic Theme ($1500-$2250)
 - Development store creation  
 - Custom template built (based on client specifications)  
 - Sections are built customizable and optimized for reusability  
@@ -29,7 +29,7 @@ Tier 2: Advanced Theme ($2500-$3800)
 
 Tier 3: Premium Theme ($3500+)
 - Everything from Tiers 1 and 2, plus:  
-- Choose any custom sections from demo store (https://thecoolagency.store/)  
+- Choose any custom sections from demo store https://thecoolagency.store/  
 - Custom user portal with account access levels (VIP, wholesale ...)  
 - Animation library integrated for all sections and blocks, all customizable via the Online editor  
 - Lighthouse scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+  
@@ -39,7 +39,7 @@ Tier 3: Premium Theme ($3500+)
 
 > Prices are for development services and standards layout design only and do not include tailored UI UX design or Shopify subscription fees. See [Theme Design](#theme-design) for custom UI/UX solutions and advanced design features.
 
-2. Timeline
+#### 2. Timeline
 
 - Tier 1: Basic Theme: 2-4 weeks  
 - Tier 2: Advanced Theme: 3-8 weeks  
@@ -50,13 +50,13 @@ Tier 3: Premium Theme ($3500+)
 
 ## Theme Design
 
-1. Design Services Options (optional)
+#### 1. Design Services Options (optional)
 
 - Consultation and Conceptualization: We start by discussing your brand and your design goals, and I come up with a design concept that reflects your vision. (included)  
 - Mockups and Wireframes: I create high-fidelity mockups and wireframes of your store's layout and design. This service includes up to 3 rounds of revisions. ($800)  
 - Design Development: We create the final design files, including all the necessary assets and elements for your theme. This service includes up to 2 rounds of revisions. ($1500)  
 
-2. Timeline
+#### 2. Timeline
 
 - Consultation and Conceptualization: 2-6 days  
 - Mockups and Wireframes: 1-2 weeks  
@@ -69,3 +69,4 @@ Besides the design/development, every site needs configuration and setup that I 
 The Tiers are not immutable, feel free to mix/match to your needs and I can provide a custom quote.
 
 > Post development | I am available on demand via retainer.
+
