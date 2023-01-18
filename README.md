@@ -21,8 +21,8 @@ Tier 1: Basic Theme ($1500-$2250)
 
 Tier 2: Advanced Theme ($2500-$3800)
 - Everything from Tier 1, plus:  
-- 1 - 2 unique capabilities function built in as per client request | Metafield creation and integrations for advanced e-commerce functions  
-- 2 - 3 third party integrations (Klaviyo, Google font icon, animation library, mega menu, modal popup, wishlist)  
+- 1-2 unique capabilities function built in as per client request, metafield creation and integrations for advanced e-commerce functions  
+- 2-3 third party integrations (Klaviyo, Google font icon, animation library, mega menu, modal popup, wishlist)  
 - Unlimited custom tags for products  
 - Multi language setup support  
 - Multi currency optimization  
