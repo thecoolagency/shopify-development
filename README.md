@@ -29,7 +29,7 @@ Tier 2: Advanced Theme ($2500-$3800)
 
 Tier 3: Premium Theme ($3500+)
 - Everything from Tiers 1 and 2, plus:  
-- Choose any custom sections from demo store https://thecoolagency.store/  
+- Choose any custom sections from my [demo store](https://thecoolagency.store/)
 - Custom user portal with account access levels (VIP, wholesale ...)  
 - Animation library integrated for all sections and blocks, all customizable via the Online editor  
 - Lighthouse scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+  
@@ -54,7 +54,7 @@ Tier 3: Premium Theme ($3500+)
 
 - Consultation and Conceptualization: We start by discussing your brand and your design goals, and I come up with a design concept that reflects your vision. (included)  
 - Mockups and Wireframes: I create high-fidelity mockups and wireframes of your store's layout and design. This service includes up to 3 rounds of revisions. ($800)  
-- Design Development: We create the final design files, including all the necessary assets and elements for your theme. This service includes up to 2 rounds of revisions. ($1500)  
+- Design Development: I create the final design files, including all the necessary assets and elements for your theme. This service includes up to 2 rounds of revisions. ($1500)
 
 #### 2. Timeline
 
@@ -68,5 +68,5 @@ I code everything myself, always using best practices and latest standards so it
 Besides the design/development, every site needs configuration and setup that I take care of: Analytics, On site SEO/Accessibility, contact channels and notification settings, store policies templates as per Shopify's regulations, mobile/tablet/desktop/cross-browser final tweaks and bug fixes. This is all included in pricing.  
 The Tiers are not immutable, feel free to mix/match to your needs and I can provide a custom quote.
 
-> Post development | I am available on demand via retainer.
+> Post development, I am available on demand via retainer.
 
