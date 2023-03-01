@@ -1,10 +1,6 @@
 # Shopify Development Services
 
-[Theme Development](#theme-development) |   
-[Tier 1](#tier-1)
-[Tier 2](#theme-development)
-[Tier 3](#theme-development)
-[Tier 4](#theme-development)
+[Theme Development](#theme-development) | 
 [Notes](#notes)
 
 
@@ -22,21 +18,21 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 - Basic Shopify setup and walkthrough and support upon launch  
 - Domain setup/configuration  
 
-Tier 2: Advanced Theme ($2500-$3800)
+#### Tier 2: Advanced Theme ($2500-$3800)
 - Everything from Tier 1, plus:  
 - 1-2 unique capabilities function built in as per client request, metafield creation and integrations for advanced e-commerce functions  
 - 2-3 third party integrations (Klaviyo, Google font icon, animation library, mega menu, modal popup, wishlist)  
 - Unlimited custom tags for products  
 - Multi language setup support  
 
-Tier 3: Premium Theme ($3800+$5500)
+#### Tier 3: Premium Theme ($3800+$5500)
 - Everything from Tiers 1 and 2, plus:  
 - Choose any custom sections from my [demo store](https://thecoolagency.store/)
 - Animation library integrated for all sections and blocks, all customizable via the Online editor  
 - Lighthouse scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
 - External sales channel setup
 
-Tier 4: Premium Theme + User portal (Wholesale) ($6000+)
+#### Tier 4: Premium Theme + User portal (Wholesale) ($6000+)
 - Everything from Tiers 1, 2, 3 plus:  
 - Custom user portal with account access levels (VIP, wholesale ...)
 - Custom pages/prodcuts/pages/styling/navigation for each account type.
