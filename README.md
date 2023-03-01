@@ -1,8 +1,11 @@
+<style>
+h1:first-of-type { display: none; }
+</style>
+
 # Shopify Development Services
 
 [Theme Development](#theme-development) | 
 [Notes](#notes)
-
 
 ## Theme Development
 
