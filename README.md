@@ -32,7 +32,7 @@ Tier 3: Premium Theme ($3800+$5500)
 - Lighthouse scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
 - External sales channel setup
 
-Tier 4: Premium Theme + Custom user portal ($6000+)
+Tier 4: Premium Theme + User portal (Wholesale) ($6000+)
 - Everything from Tiers 1, 2, 3 plus:  
 - Custom user portal with account access levels (VIP, wholesale ...)
 - Custom pages/prodcuts/pages/styling/navigation for each account type.
