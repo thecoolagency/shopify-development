@@ -1,6 +1,10 @@
 # Shopify Development Services
 
-[Theme Development](#theme-development) |
+[Theme Development](#theme-development) |   
+[Tier 1](#tier-1)
+[Tier 2](#theme-development)
+[Tier 3](#theme-development)
+[Tier 4](#theme-development)
 [Notes](#notes)
 
 
@@ -10,7 +14,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 #### 1. Pricing
 
-Tier 1: Basic Theme ($1800-$2250)
+#### Tier 1 : Basic Theme ($1800-$2250)
 - Development store creation  
 - Custom template built (based on client specifications)  
 - Sections are built customizable and optimized for reusability  
