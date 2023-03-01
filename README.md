@@ -7,7 +7,7 @@
 
 I specialize in creating custom Shopify themes that are optimized for performance and mobile/desktop compatibility. My themes are coded by hand using the latest Shopify 2.0 standards and best practices, ensuring that your store will be fast, secure, and easy to use.
 
-#### 1. Pricing
+### 1. Pricing
 
 #### Tier 1 : Basic Theme ($1800-$2250)
 - Development store creation  
@@ -39,7 +39,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 > Prices are for development services and standards layout design only and do not include tailored UI UX design or Shopify subscription fees. See [Theme Design](#theme-design) for custom UI/UX solutions and advanced design features.
 
-#### 2. Timeline
+### 2. Timeline
 
 - Tier 1: Basic Theme: 2-4 weeks  
 - Tier 2: Advanced Theme: 3-8 weeks  
