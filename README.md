@@ -27,7 +27,7 @@ Everything from Tier 1, plus:
 
 #### Tier 3: Premium Theme ($3800-$5500)
 Everything from Tiers 1 and 2, plus:  
-- Choice of any custom sections from my [demo store](https://thecoolagency.store/)
+- Choice of any custom sections from my <a href='https://thecoolagency.store/' target='_blank'>demo store</a>
 - Integrated Animation Library for all sections and blocks, all customizable via the Online editor  
 - Lighthouse Scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
 - External Sales Channel Setup
