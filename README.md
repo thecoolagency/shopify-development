@@ -9,7 +9,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 ### 1. Pricing
 
-#### Tier 1 : Basic Theme ($1800-$2250)
+#### Tier 1 : Basic Theme ($2100-$2800)
 - Development Store Creation
 - Custom-Built Template 
 - Section Enhancement for client-customization and optimal reusability
@@ -17,7 +17,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 - Live Support, Testing, & Bug Fixing (prior to and during first month after launch)
 - Domain Setup/Configuration
 
-#### Tier 2: Advanced Theme ($2500-$3800)
+#### Tier 2: Advanced Theme ($2800-$4000)
 Everything from Tier 1, plus:  
 - 1-2 Custom, Built-in Functions for any desired capability
 - Metafield Creation & Integrations for advanced e-commerce functions  
@@ -25,7 +25,7 @@ Everything from Tier 1, plus:
 - Unlimited Custom Tags for products  
 - Multi-Language Setup Support  
 
-#### Tier 3: Premium Theme ($3800-$5500)
+#### Tier 3: Premium Theme ($4000-$6000)
 Everything from Tiers 1 and 2, plus:  
 - Choice of any custom sections from my <a href='https://thecoolagency.store/' target='_blank'>demo store</a>
 - Integrated Animation Library for all sections and blocks, all customizable via the Online editor  
@@ -38,16 +38,17 @@ Everything from Tiers 1, 2, and 3 plus:
 - Custom Pages/Products/Styling/Navigation for each account type.
 - Store Migration to Shopify from any platform (extra costs)
 
-> Prices are for development services and standard layout designs only. They do not include tailored UI/UX design or Shopify subscription fees. See [Theme Design](#theme-design) for custom UI/UX solutions and advanced design features.
+> Prices are estimated, can change depending on certain requests.
+> Prices are for development services and standard layout designs only. They do not include tailored UI/UX design or Shopify subscription fees. I work with Alexander for custom Fashion Ecommerce design and Diego UI/UX solutions and advanced design features. Let me know if you'd like thoses services.
 
-### 2. Timeline
+### 2. Timeline (with standard/provided design)
 
 - Tier 1: Basic Theme: 2-4 weeks  
 - Tier 2: Advanced Theme: 3-8 weeks  
 - Tier 3: Premium Theme: 6-12 weeks  
 - Tier 4: Premium Theme + User Portal: 6-18 weeks  
 
-> Expedited delivery available upon request.
+> Expedited delivery available upon request at extra cost.
 
 ## Notes
 
@@ -60,3 +61,4 @@ Components between Tiers are mutable, so feel free to mix/match to your needs fo
 > Post-development, I am available on demand via retainer.
 
 <a href='https://www.jonahlmadeya.com' target='_blank'>Web Developer Jonah L Madeya</a>
+<a href='(https://forms.gle/7YqFGDwwyc87izMC8)' target='_blank'>Submit an Inquiry</a>
