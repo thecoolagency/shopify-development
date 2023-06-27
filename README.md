@@ -60,6 +60,7 @@ Components between Tiers are mutable, so feel free to mix/match to your needs fo
 
 > Post-development, I am available on demand via retainer.
 
+## Links
 
 #### My Website
 <a href='https://www.jonahlmadeya.com' target='_blank'>Web Developer Jonah L Madeya</a>
