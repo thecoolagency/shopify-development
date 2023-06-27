@@ -1,4 +1,3 @@
-# Shopify Development Services
 
 [Theme Development](#theme-development) | 
 [Notes](#notes) | 
