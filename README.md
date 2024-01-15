@@ -1,5 +1,6 @@
 
 [Theme Development](#theme-development) |
+[Custom App Development](#custom-app-development) |
 [Notes](#notes) |
 [About Me/Contact](#links)
 
@@ -60,22 +61,27 @@ As a seasoned Shopify developer, I specialize in crafting bespoke Shopify applic
 - Migration Checkout 2.0
 - Abandoned Cart Recovery Tools
 - Multi-Currency and Language Support
+  
 2. Volume Discount and Bundle Builders:
 - Dynamic Pricing Strategies
 - Bundle Offers for Increased Sales
 - Customizable Discount Rules
+
 3. Inventory and Order Management Apps:
 - Real-Time Inventory Tracking
 - Automated Reordering Systems
 - Simplified Order Management Interface
+
 4. Customer Loyalty and Reward Programs:
 - Customizable Loyalty Programs
 - Reward Points System
 - Referral and Affiliate Marketing Integration
+
 5. Data Analytics and Reporting Tools:
 - Comprehensive Sales Reports
 - Customer Behavior Analysis
 - Real-Time Performance Metrics
+
 6. Custom Integrations:
 - Integration with ERP and CRM Systems
 - Shipping and Logistics Management
