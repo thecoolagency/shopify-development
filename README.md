@@ -9,7 +9,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 ### 1. Pricing
 
-#### Tier 1 : Basic Theme ($2800-$3000)
+#### Tier 1 : Basic Theme ($3000-$400)
 - Development Store Creation
 - Custom-Built Template
 - Section Enhancement for client-customization and optimal reusability
@@ -17,7 +17,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 - Live Support, Testing, & Bug Fixing (prior to and during first month after launch)
 - Domain Setup/Configuration
 
-#### Tier 2: Advanced Theme ($2800-$4000)
+#### Tier 2: Advanced Theme ($4000-$6000)
 Everything from Tier 1, plus:
 - 1-2 Custom, Built-in Functions for any desired capability
 - Metafield Creation & Integrations for advanced e-commerce functions
@@ -25,14 +25,14 @@ Everything from Tier 1, plus:
 - Unlimited Custom Tags for products
 - Multi-Language Setup Support
 
-#### Tier 3: Premium Theme ($4000-$6000)
+#### Tier 3: Premium Theme ($6000-$8000)
 Everything from Tiers 1 and 2, plus:
 - Choice of any custom sections from my <a href='https://thecoolagency.store/' target='_blank'>demo store</a>
 - Integrated Animation Library for all sections and blocks, all customizable via the Online editor
 - Lighthouse Scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
 - External Sales Channel Setup
 
-#### Tier 4: Premium Theme + User Portal (Wholesale) ($6000+)
+#### Tier 4: Premium Theme + Third party Intergrations, options: Private Exclusive User Portal (Wholesale/Preferred Customers) ($8000-$12000)
 Everything from Tiers 1, 2, and 3 plus:
 - Custom User Portal with account access levels (VIP, Wholesale ...)
 - Custom Pages/Products/Styling/Navigation for each account type.
@@ -43,10 +43,10 @@ Everything from Tiers 1, 2, and 3 plus:
 
 ### 2. Timeline (with standard/provided design)
 
-- Tier 1: Basic Theme: 4-6 weeks
-- Tier 2: Advanced Theme: 4-10 weeks
-- Tier 3: Premium Theme: 6-12 weeks
-- Tier 4: Premium Theme + User Portal: 12-18 weeks
+- Tier 1: Basic Theme: 4-6+ weeks
+- Tier 2: Advanced Theme: 4-10+ weeks
+- Tier 3: Premium Theme: 6-12+ weeks
+- Tier 4: Premium Theme + User Portal: 12+ weeks
 
 > Expedited delivery available upon request at extra cost.
 
@@ -58,7 +58,7 @@ Besides the development, every site needs configuration and setup that I take ca
 
 Components between Tiers are mutable, so feel free to mix/match to your needs for a custom quote.
 
-> Post-development, I am available on demand hourly at $200/hourly via retainer.
+> Post-development, I am available on demand hourly at $250/hourly via retainer.
 
 ## Links
 
