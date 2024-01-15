@@ -3,7 +3,7 @@
 [Notes](#notes) |
 [About Me/Contact](#links)
 
-## Theme Development
+## Theme Development (Shopify Theme Development + Integrations)
 
 I specialize in creating custom Shopify themes that are optimized for performance and mobile/desktop compatibility. Using the latest Shopify 2.0 standards and best practices, each theme is coded manually to ensure that your store will be fast, secure, and user-friendly.
 
@@ -49,6 +49,58 @@ Everything from Tiers 1, 2, and 3 plus:
 - Tier 4: Premium Theme + User Portal: 12+ weeks
 
 > Expedited delivery available upon request at extra cost.
+
+## Custom App Development
+
+As a seasoned Shopify developer, I specialize in crafting bespoke Shopify applications that enhance your e-commerce experience. My focus is on creating apps that are not only functional but also seamlessly integrate with your Shopify store, ensuring a cohesive and efficient user experience.
+
+### Services Offered
+
+1. Custom Checkout Solutions:
+- Migration Checkout 2.0
+- Abandoned Cart Recovery Tools
+- Multi-Currency and Language Support
+2. Volume Discount and Bundle Builders:
+- Dynamic Pricing Strategies
+- Bundle Offers for Increased Sales
+- Customizable Discount Rules
+3. Inventory and Order Management Apps:
+- Real-Time Inventory Tracking
+- Automated Reordering Systems
+- Simplified Order Management Interface
+4. Customer Loyalty and Reward Programs:
+- Customizable Loyalty Programs
+- Reward Points System
+- Referral and Affiliate Marketing Integration
+5. Data Analytics and Reporting Tools:
+- Comprehensive Sales Reports
+- Customer Behavior Analysis
+- Real-Time Performance Metrics
+6. Custom Integrations:
+- Integration with ERP and CRM Systems
+- Shipping and Logistics Management
+- Payment Gateway Customization
+
+### Development Process
+1. Initial Consultation: Understanding your unique requirements and goals.
+2. Proposal and Quote: Detailed project scope with timelines and cost estimates.
+3. Design and Development: Building the custom app with regular progress updates.
+4. Testing and Quality Assurance: Ensuring the app's functionality and compatibility.
+5. Deployment and Integration: Seamless integration with your Shopify store.
+6. Training and Support: Comprehensive guidance on using the app effectively.
+
+### Pricing
+- Custom pricing based on the complexity and requirements of the app.
+- Transparent cost breakdown with no hidden fees.
+- Post-development maintenance and support packages available.
+
+> Note: Prices and timelines are estimates and may vary based on specific project needs.
+
+### Why Choose My Services
+- Expertise in Shopify platform and app development.
+- Commitment to quality and customer satisfaction.
+- Continuous support and updates for the applications developed.
+- Tailored solutions that align with your business objectives.
 
 ## Notes
 
