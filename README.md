@@ -2,7 +2,8 @@
 [Theme Development](#theme-development) |
 [Custom App Development](#custom-app-development) |
 [Notes](#notes) |
-[About Me/Contact](#links)
+[About Me/Contact](#links) |
+[SEO](#seo)
 
 ## Theme Development (Shopify Theme Development + Integrations)
 
@@ -118,7 +119,7 @@ Components between Tiers are mutable, so feel free to mix/match to your needs fo
 
 > Post-development, I am available on demand hourly at $250/hourly via retainer.
 
-## Links
+## Notes
 
 #### My Website
 <a href='https://www.jonahlmadeya.com' target='_blank'>Web Developer Jonah L Madeya</a>
@@ -131,3 +132,10 @@ Components between Tiers are mutable, so feel free to mix/match to your needs fo
 
 #### Contact Me
 <a href='https://forms.gle/7YqFGDwwyc87izMC8' target='_blank'>Submit an Inquiry</a>
+
+## SEO
+
+[Jenn Ubaldo](https://jennubaldo.com/)
+
+For SEO services, I highly recommended Jenn, I have work with her for a while and she is the most knownledgable person to work with. Expert at GA4 and SEO consulting.
+
