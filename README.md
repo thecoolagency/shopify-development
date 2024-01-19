@@ -11,7 +11,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 ### 1. Pricing
 
-#### Tier 1 : Basic Theme ($3000-$400)
+#### Tier 1 : Basic Theme ($3000-$4000)
 - Development Store Creation
 - Custom-Built Template
 - Section Enhancement for client-customization and optimal reusability
