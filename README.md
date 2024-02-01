@@ -11,7 +11,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 
 ### 1. Pricing
 
-#### Tier 1 : Basic Theme ($3000-$4000)
+#### Tier 1 : Basic Theme (starting at $2500)
 - Development Store Creation
 - Custom-Built Template
 - Section Enhancement for client-customization and optimal reusability
@@ -19,7 +19,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 - Live Support, Testing, & Bug Fixing (prior to and during first month after launch)
 - Domain Setup/Configuration
 
-#### Tier 2: Advanced Theme ($4000-$6000)
+#### Tier 2: Advanced Theme (starting at $4000)
 Everything from Tier 1, plus:
 - 1-2 Custom, Built-in Functions for any desired capability
 - Metafield Creation & Integrations for advanced e-commerce functions
@@ -27,14 +27,14 @@ Everything from Tier 1, plus:
 - Unlimited Custom Tags for products
 - Multi-Language Setup Support
 
-#### Tier 3: Premium Theme ($6000-$8000)
+#### Tier 3: Premium Theme  (starting at $6000)
 Everything from Tiers 1 and 2, plus:
 - Choice of any custom sections from my <a href='https://thecoolagency.store/' target='_blank'>demo store</a>
 - Integrated Animation Library for all sections and blocks, all customizable via the Online editor
 - Lighthouse Scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
 - External Sales Channel Setup
 
-#### Tier 4: Premium Theme + Third party Intergrations, options: Private Exclusive User Portal (Wholesale/Preferred Customers) ($8000-$12000)
+#### Tier 4: Premium Theme + Third party Intergrations, options: Private Exclusive User Portal (Wholesale/Preferred Customers) (starting at $8000)
 Everything from Tiers 1, 2, and 3 plus:
 - Custom User Portal with account access levels (VIP, Wholesale ...)
 - Custom Pages/Products/Styling/Navigation for each account type.
