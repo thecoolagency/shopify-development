@@ -16,7 +16,7 @@ I specialize in creating custom Shopify themes that are optimized for performanc
 - Custom-Built Template
 - Section Enhancement for client-customization and optimal reusability
 - Basic Shopify Setup & Walkthrough
-- Live Support, Testing, & Bug Fixing (prior to and during first month after launch)
+- Live Support, Testing, & Bug Fixing (prior to and during 15 days after delivery)
 - Domain Setup/Configuration
 
 #### Tier 2: Advanced Theme (starting at $4000)
@@ -24,6 +24,7 @@ Everything from Tier 1, plus:
 - 1-2 Custom, Built-in Functions for any desired capability
 - Metafield Creation & Integrations for advanced e-commerce functions
 - 2-3 Third Party Integrations (Klaviyo, Google Font Icon, Animation Library, Mega Menu, Modal Popup, Wishlist)
+- Live Support, Testing, & Bug Fixing (prior to and during 30 days after delivery)
 - Unlimited Custom Tags for products
 - Multi-Language Setup Support
 
