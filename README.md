@@ -41,6 +41,8 @@ Everything from Tiers 1, 2, and 3 plus:
 - Custom Pages/Products/Styling/Navigation for each account type.
 - Store Migration to Shopify from any platform (extra costs)
 
+#### Tier 5: Fully custom theme based on your requirements (<a href='https://forms.gle/7YqFGDwwyc87izMC8' target='_blank'>Contact me for a custom quote after intake.</a>) BEST TIER 🫡🫡🫡
+
 > Prices are estimated, can change depending on certain requests.
 > Prices are for development services and standard layout designs only. They do not include tailored UI/UX design or Shopify subscription fees. I work with Alexander for custom Fashion Ecommerce design and Diego UI/UX solutions and advanced design features. Let me know if you'd like thoses services.
 
@@ -50,6 +52,7 @@ Everything from Tiers 1, 2, and 3 plus:
 - Tier 2: Advanced Theme: 4-10+ weeks
 - Tier 3: Premium Theme: 6-12+ weeks
 - Tier 4: Premium Theme + User Portal: 12+ weeks
+- Tier 5: TBD
 
 > Expedited delivery available upon request at extra cost.
 
