@@ -127,7 +127,3 @@ Components across tiers are flexible and customizable—feel free to mix and mat
 
 Highly recommended: [Jenn Ubaldo](https://jennubaldo.com)  
 Jenn is an experienced SEO consultant and expert in GA4 analytics.
-
----
-
-This markdown structure makes your offerings clear, easy to navigate, visually attractive, and concise.
