@@ -1,145 +1,133 @@
-
-[Theme Development](#theme-development) |
-[Custom App Development](#custom-app-development) |
-[Notes](#notes) |
-[About Me/Contact](#links) |
+[Theme Development](#theme-development) | 
+[Custom App Development](#custom-app-development) | 
+[Notes](#notes) | 
+[About Me/Contact](#about-mecontact) | 
 [SEO](#seo)
 
 ## Theme Development (Shopify Theme Development + Integrations)
 
-I specialize in creating custom Shopify themes that are optimized for performance and mobile/desktop compatibility. Using the latest Shopify 2.0 standards and best practices, each theme is coded manually to ensure that your store will be fast, secure, and user-friendly.
+Specializing in Shopify 2.0 themes, I build manually coded, fast-loading, mobile-responsive, secure, and easy-to-manage Shopify stores.
 
-### 1. Pricing
+### Pricing
 
-#### Tier 1 : Basic Theme (starting at $2500)
+#### ✅ Tier 1: Basic Theme *(Starting at $2500, 4-6 weeks)*
 - Development Store Creation
-- Custom-Built Template
-- Section Enhancement for client-customization and optimal reusability
-- Basic Shopify Setup & Walkthrough
-- Live Support, Testing, & Bug Fixing (prior to and during 15 days after delivery)
-- Domain Setup/Configuration
+- Custom Template & Editable Sections
+- Basic Shopify & Domain Setup
+- Support & Bug Fixing (15 days post-delivery)
 
-#### Tier 2: Advanced Theme (starting at $4000)
-Everything from Tier 1, plus:
-- 1-2 Custom, Built-in Functions for any desired capability
-- Metafield Creation & Integrations for advanced e-commerce functions
-- 2-3 Third Party Integrations (Klaviyo, Google Font Icon, Animation Library, Mega Menu, Modal Popup, Wishlist)
-- Live Support, Testing, & Bug Fixing (prior to and during 30 days after delivery)
-- Unlimited Custom Tags for products
-- Multi-Language Setup Support
+#### 🚀 Tier 2: Advanced Theme *(Starting at $4000, 4-10 weeks)*
+_All Tier 1 features plus:_
+- 1-2 Custom Functionalities
+- Metafield Creation & Integration
+- 2-3 Third Party Integrations (Klaviyo, Google Fonts, Animation Library, Mega Menu, Wishlist, Modals)
+- Multi-Language Support & Unlimited Product Tags
+- Support & Bug Fixing (30 days post-delivery)
 
-#### Tier 3: Premium Theme  (starting at $6000)
-Everything from Tiers 1 and 2, plus:
-- Choice of any custom sections from my <a href='https://thecoolagency.store/' target='_blank'>demo store</a>
-- Integrated Animation Library for all sections and blocks, all customizable via the Online editor
-- Lighthouse Scores (Speed/Accessibility/Best Practices/SEO) optimized to 85+ (without apps)
+#### 🌟 Tier 3: Premium Theme *(Starting at $6000, 6-12 weeks)*
+_All Tier 1 & 2 features plus:_
+- Choose custom sections from my [demo store](https://thecoolagency.store/)
+- Integrated Editable Animation Library
+- Lighthouse Scores Optimized to 85+ (SEO, Accessibility, Performance, Best Practices)
 - External Sales Channel Setup
 
-#### Tier 4: Premium Theme + Third party Intergrations, options: Private Exclusive User Portal (Wholesale/Preferred Customers) (starting at $8000)
-Everything from Tiers 1, 2, and 3 plus:
-- Custom User Portal with account access levels (VIP, Wholesale ...)
-- Custom Pages/Products/Styling/Navigation for each account type.
-- Store Migration to Shopify from any platform (extra costs)
+#### 🔐 Tier 4: Premium Theme + Private User Portal *(Starting at $8000, 12+ weeks)*
+_All Tier 1-3 features plus:_
+- Private User Portal (VIP, Wholesale)
+- Custom Pages & Navigation per Account Type
+- Optional Store Migration (extra costs apply)
 
-#### Tier 5: Fully custom theme based on your requirements (<a href='https://forms.gle/7YqFGDwwyc87izMC8' target='_blank'>Contact me for a custom quote after intake.</a>) BEST TIER 🫡🫡🫡
+#### 🥇 Tier 5: Fully Custom Theme ([Contact me for a custom quote after intake](https://forms.gle/7YqFGDwwyc87izMC8)) 🫡🫡🫡
+- Entirely tailored to your unique business requirements.
 
-> Prices are estimated, can change depending on certain requests.
-> Prices are for development services and standard layout designs only. They do not include tailored UI/UX design or Shopify subscription fees. I work with Alexander for custom Fashion Ecommerce design and Diego UI/UX solutions and advanced design features. Let me know if you'd like thoses services.
+> Pricing estimates subject to change based on requirements. Prices cover standard layout designs and do not include Shopify subscription fees or custom UI/UX design. For advanced UI/UX, I collaborate with Alexander (Fashion Ecommerce) and Diego (Advanced UI/UX). Let me know if you're interested.
 
-### 2. Timeline (with standard/provided design)
+### Timeline (standard/provided design)
 
-- Tier 1: Basic Theme: 4-6+ weeks
-- Tier 2: Advanced Theme: 4-10+ weeks
-- Tier 3: Premium Theme: 6-12+ weeks
-- Tier 4: Premium Theme + User Portal: 12+ weeks
-- Tier 5: TBD
+- **Tier 1:** 4-6 weeks
+- **Tier 2:** 4-10 weeks
+- **Tier 3:** 6-12 weeks
+- **Tier 4:** 12+ weeks
+- **Tier 5:** Custom timeline (TBD)
 
-> Expedited delivery available upon request at extra cost.
+> Expedited delivery available upon request (extra cost).
 
 ## Custom App Development
 
-As a seasoned Shopify developer, I specialize in crafting bespoke Shopify applications that enhance your e-commerce experience. My focus is on creating apps that are not only functional but also seamlessly integrate with your Shopify store, ensuring a cohesive and efficient user experience.
+As an experienced Shopify app developer, I create custom solutions to enhance your store’s functionality and sales potential.
 
 ### Services Offered
 
-1. Custom Checkout Solutions:
-- Migration Checkout 2.0
-- Abandoned Cart Recovery Tools
-- Multi-Currency and Language Support
-  
-2. Volume Discount and Bundle Builders:
-- Dynamic Pricing Strategies
-- Bundle Offers for Increased Sales
-- Customizable Discount Rules
+- **Custom Checkout Solutions**
+  - Migration Checkout 2.0, Abandoned Cart Recovery, Multi-Currency & Language
 
-3. Inventory and Order Management Apps:
-- Real-Time Inventory Tracking
-- Automated Reordering Systems
-- Simplified Order Management Interface
+- **Volume Discount & Bundle Builders**
+  - Dynamic Pricing, Bundled Products, Custom Discount Rules
 
-4. Customer Loyalty and Reward Programs:
-- Customizable Loyalty Programs
-- Reward Points System
-- Referral and Affiliate Marketing Integration
+- **Inventory & Order Management**
+  - Real-time Inventory Tracking, Automated Reordering, Order Management Interface
 
-5. Data Analytics and Reporting Tools:
-- Comprehensive Sales Reports
-- Customer Behavior Analysis
-- Real-Time Performance Metrics
+- **Customer Loyalty & Reward Programs**
+  - Loyalty Points, Referral & Affiliate Programs
 
-6. Custom Integrations:
-- Integration with ERP and CRM Systems
-- Shipping and Logistics Management
-- Payment Gateway Customization
+- **Analytics & Reporting Tools**
+  - Sales Reports, Customer Behavior Insights, Performance Metrics
+
+- **Custom Integrations**
+  - ERP, CRM, Payment Gateways, Shipping & Logistics
 
 ### Development Process
-1. Initial Consultation: Understanding your unique requirements and goals.
-2. Proposal and Quote: Detailed project scope with timelines and cost estimates.
-3. Design and Development: Building the custom app with regular progress updates.
-4. Testing and Quality Assurance: Ensuring the app's functionality and compatibility.
-5. Deployment and Integration: Seamless integration with your Shopify store.
-6. Training and Support: Comprehensive guidance on using the app effectively.
+
+1. **Consultation:** Define requirements
+2. **Proposal & Quote:** Transparent pricing & timelines
+3. **Design & Development:** Regular progress updates
+4. **Testing:** Ensure quality and compatibility
+5. **Deployment:** Integration into your Shopify store
+6. **Support:** Training & ongoing maintenance
 
 ### Pricing
-- Custom pricing based on the complexity and requirements of the app.
-- Transparent cost breakdown with no hidden fees.
-- Post-development maintenance and support packages available.
 
-> Note: Prices and timelines are estimates and may vary based on specific project needs.
+- Custom-priced based on complexity.
+- Transparent cost breakdown, no hidden fees.
+- Optional post-development support packages available.
 
-### Why Choose My Services
-- Expertise in Shopify platform and app development.
-- Commitment to quality and customer satisfaction.
-- Continuous support and updates for the applications developed.
-- Tailored solutions that align with your business objectives.
+> Pricing and timelines are approximate; specific projects may vary.
 
-## Notes
+### Why Choose My Services?
 
-Everything I offer is self-coded with the best practices and latest standards. To ensure a smooth and scheduled development process, it is imperative to have a clear timeline and detailed plan of all the requirements you need before starting development.
-
-Besides the development, every site needs configuration and setup that I take care of as well. This includes analytics, on-site SEO/accessibility, contact channels, notification settings, store policy templates as per Shopify's regulations, mobile/tablet/desktop/cross-browser final tweaks, and bug fixes. My pricing is all-inclusive of these features.
-
-Components between Tiers are mutable, so feel free to mix/match to your needs for a custom quote.
-
-> Post-development, I am available on demand hourly at $250/hourly via retainer.
+- Proven Shopify Expertise
+- High Quality & Customer Satisfaction
+- Ongoing support and regular updates
+- Tailored solutions aligned with business goals
 
 ## Notes
 
-#### My Website
-<a href='https://www.jonahlmadeya.com' target='_blank'>Web Developer Jonah L Madeya</a>
+Everything I build is custom-coded, following the latest standards and best practices. For smooth project execution, clearly outlined timelines and detailed requirements must be defined before starting.
 
-#### My Portfolio
-<a href='https://linktr.ee/jonahlmadeya' target='_blank'>Linktr.ee</a>
+All projects include comprehensive store configuration:
+- Analytics & GA4 integration
+- SEO & Accessibility optimization
+- Store Policies (Shopify compliant)
+- Device & Browser Testing
+- Notification & Contact Channel Setup
+- Final Adjustments & Bug Fixes
 
-#### My Linkedin
-<a href='https://www.linkedin.com/in/jonahmadeya/' target='_blank'>LinkedIn</a>
+Components across tiers are flexible and customizable—feel free to mix and match as needed.
 
-#### Contact Me
-<a href='https://forms.gle/7YqFGDwwyc87izMC8' target='_blank'>Submit an Inquiry</a>
+> **Hourly Retainer:** Post-development support available at **$250/hr** via retainer.
+
+## About Me/Contact
+
+- **Website:** [Web Developer Jonah L Madeya](https://www.jonahlmadeya.com)
+- **Portfolio:** [Linktr.ee](https://linktr.ee/jonahlmadeya)
+- **LinkedIn:** [Jonah Madeya](https://www.linkedin.com/in/jonahmadeya/)
+- **Contact:** [Submit an Inquiry](https://forms.gle/7YqFGDwwyc87izMC8)
 
 ## SEO
 
-[Jenn Ubaldo](https://jennubaldo.com/)
+Highly recommended: [Jenn Ubaldo](https://jennubaldo.com)  
+Jenn is an experienced SEO consultant and expert in GA4 analytics.
 
-For SEO services, I highly recommended Jenn, I have work with her for a while and she is the most knownledgable person to work with. Expert at GA4 and SEO consulting.
+---
 
+This markdown structure makes your offerings clear, easy to navigate, visually attractive, and concise.
