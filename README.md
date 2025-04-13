@@ -10,13 +10,13 @@ Specializing in Shopify 2.0 themes, I build manually coded, fast-loading, mobile
 
 ### Pricing
 
-#### ✅ Tier 1: Basic Theme *(Starting at $2500, 4-6 weeks)*
+#### ✅ Tier 1: Basic Theme *(Starting at $3000, 4-6 weeks)*
 - Development Store Creation
 - Custom Template & Editable Sections
 - Basic Shopify & Domain Setup
 - Support & Bug Fixing (15 days post-delivery)
 
-#### 🚀 Tier 2: Advanced Theme *(Starting at $4000, 4-10 weeks)*
+#### 🚀 Tier 2: Advanced Theme *(Starting at $5000, 4-10 weeks)*
 _All Tier 1 features plus:_
 - 1-2 Custom Functionalities
 - Metafield Creation & Integration
@@ -24,7 +24,7 @@ _All Tier 1 features plus:_
 - Multi-Language Support & Unlimited Product Tags
 - Support & Bug Fixing (30 days post-delivery)
 
-#### 🌟 Tier 3: Premium Theme *(Starting at $6000, 6-12 weeks)*
+#### 🌟 Tier 3: Premium Theme *(Starting at $7000, 6-12 weeks)*
 _All Tier 1 & 2 features plus:_
 - Choose custom sections from my [demo store](https://thecoolagency.store/)
 - Integrated Editable Animation Library
