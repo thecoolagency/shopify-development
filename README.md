@@ -52,6 +52,8 @@ _All Tier 1-3 features plus:_
 
 > Expedited delivery available upon request (extra cost).
 
+> **Note:** All timelines are approximate and may shift by ±3 days due to development cycles or client feedback loops.
+
 ## Custom App Development
 
 As an experienced Shopify app developer, I create custom solutions to enhance your store’s functionality and sales potential.
