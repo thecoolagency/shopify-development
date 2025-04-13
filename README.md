@@ -42,6 +42,8 @@ _All Tier 1-3 features plus:_
 
 > Pricing estimates subject to change based on requirements. Prices cover standard layout designs and do not include Shopify subscription fees or custom UI/UX design. For advanced UI/UX, I collaborate with Alexander (Fashion Ecommerce) and Diego (Advanced UI/UX). Let me know if you're interested.
 
+> This theme license remains active contingent on payment and authorization agreed upon.  
+
 ### Timeline (standard/provided design)
 
 - **Tier 1:** 4-6 weeks
