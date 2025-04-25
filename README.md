@@ -56,28 +56,20 @@ _All Tier 1-3 features plus:_
 
 ### Expedited Delivery Pricing  
 
-#### Tier 1: Basic Theme (Starting at $3000)  
-- **Expedited by 3–5 days** (+75%) → **Starting at $5250**  
-- **Expedited by 5–10 days** (+50%) → **Starting at $4500**  
-- **Expedited by 10–14 days** (+35%) → **Starting at $4050**  
+**Tier 1: Basic Theme (Starting at $3000)**  
+Expedited: **3–5 days (+75%) $5250**, **5–10 days (+50%) $4500**, **10–14 days (+35%) $4050**  
 
-#### Tier 2: Advanced Theme (Starting at $5000)  
-- **Expedited by 3–5 days** (+80%) → **Starting at $9000**  
-- **Expedited by 5–10 days** (+55%) → **Starting at $7750**  
-- **Expedited by 10–14 days** (+40%) → **Starting at $7000**  
+**Tier 2: Advanced Theme (Starting at $5000)**  
+Expedited: **3–5 days (+80%) $9000**, **5–10 days (+55%) $7750**, **10–14 days (+40%) $7000**  
 
-#### Tier 3: Premium Theme (Starting at $7000)  
-- **Expedited by 3–5 days** (+85%) → **Starting at $12,950**  
-- **Expedited by 5–10 days** (+60%) → **Starting at $11,200**  
-- **Expedited by 10–14 days** (+45%) → **Starting at $10,150**  
+**Tier 3: Premium Theme (Starting at $7000)**  
+Expedited: **3–5 days (+85%) $12,950**, **5–10 days (+60%) $11,200**, **10–14 days (+45%) $10,150**  
 
-#### Tier 4: Premium + Private Portal (Starting at $8000)  
-- **Expedited by 3–5 days** (+90%) → **Starting at $15,200**  
-- **Expedited by 5–10 days** (+65%) → **Starting at $13,200**  
-- **Expedited by 10–14 days** (+50%) → **Starting at $12,000**  
+**Tier 4: Premium + Private Portal (Starting at $8000)**  
+Expedited: **3–5 days (+90%) $15,200**, **5–10 days (+65%) $13,200**, **10–14 days (+50%) $12,000**  
 
-#### Tier 5: Fully Custom Theme  
-- **Expedited delivery and pricing customized after intake.**  
+**Tier 5: Fully Custom Theme**  
+Expedited delivery and pricing customized after intake.  
 
 > **Note:** All timelines are approximate and may shift by ±3 days due to development cycles or client feedback loops.
 
