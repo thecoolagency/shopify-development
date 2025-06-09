@@ -42,7 +42,12 @@ _All Tier 1-3 features plus:_
 
 > Pricing estimates subject to change based on requirements. Prices cover standard layout designs and do not include Shopify subscription fees or custom UI/UX design. For advanced UI/UX, I collaborate with Alexander (Fashion Ecommerce) and Diego (Advanced UI/UX). Let me know if you're interested.
 
-> This theme license remains active contingent on payment and authorization agreed upon.  
+> This theme license remains active contingent on payment and authorization agreed upon.
+
+Resale and Redistribution
+> The Client acknowledges that all rights, title, and interest in the Theme, including its code, design, and underlying intellectual property, remain the property of the Contractor unless explicitly transferred in writing.
+> The Client is granted a non-transferable, non-exclusive license to use the Theme solely for their own business operations. The Theme may not be resold, sublicensed, distributed, or otherwise monetized, in whole or in part, without prior written permission from the Contractor.
+> Any unauthorized resale or distribution will be considered a material breach of this agreement and subject to additional licensing fees, including but not limited to retroactive royalties equal to 50% of gross revenues derived from such use.
 
 ### Timeline (standard/provided design)
 
