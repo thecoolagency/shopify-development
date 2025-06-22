@@ -1,7 +1,7 @@
-[Theme Development](#theme-development) | 
-[Custom App Development](#custom-app-development) | 
-[Notes](#notes) | 
-[About Me/Contact](#about-mecontact) | 
+[Theme Development](#theme-development) |
+[Custom App Development](#custom-app-development) |
+[Notes](#notes) |
+[About Me/Contact](#about-mecontact) |
 [SEO](#seo)
 
 ## Theme Development (Shopify Theme Development + Integrations)
@@ -42,9 +42,9 @@ _All Tier 1-3 features plus:_
 
 > Pricing estimates subject to change based on requirements. Prices cover standard layout designs and do not include Shopify subscription fees or custom UI/UX design. For advanced UI/UX, I collaborate with Alexander (Fashion Ecommerce) and Diego (Advanced UI/UX). Let me know if you're interested.
 
-> This theme license remains active contingent on payment and authorization agreed upon.
+> Use of the theme is licensed and contingent upon full payment and adherence to the terms outlined below.
 
-Resale and Redistribution
+### Resale and Redistribution
 > The Client acknowledges that all rights, title, and interest in the Theme, including its code, design, and underlying intellectual property, remain the property of the Contractor unless explicitly transferred in writing.
 > The Client is granted a non-transferable, non-exclusive license to use the Theme solely for their own business operations. The Theme may not be resold, sublicensed, distributed, or otherwise monetized, in whole or in part, without prior written permission from the Contractor.
 > Any unauthorized resale or distribution will be considered a material breach of this agreement and subject to additional licensing fees, including but not limited to retroactive royalties equal to 75% of gross revenues derived from such use.
@@ -125,7 +125,7 @@ As an experienced Shopify app developer, I create custom solutions to enhance yo
 - Transparent cost breakdown, no hidden fees.
 - Optional post-development support packages available.
 
-> Pricing and timelines are approximate; specific projects may vary.
+> Final pricing and timelines depend on project complexity. All quotes are fully itemized and agreed upon before work begins.
 
 ### Why Choose My Services?
 
@@ -136,7 +136,7 @@ As an experienced Shopify app developer, I create custom solutions to enhance yo
 
 ## Notes
 
-Everything I build is custom-coded, following the latest standards and best practices. For smooth project execution, clearly outlined timelines and detailed requirements must be defined before starting.
+Everything I build is custom-coded, following the latest standards and best practices. To ensure a smooth project, we’ll finalize scope, timeline, and deliverables before development begins.
 
 All projects include comprehensive store configuration:
 - Analytics & GA4 integration
@@ -161,3 +161,4 @@ Components across tiers are flexible and customizable—feel free to mix and mat
 
 Highly recommended: [Jenn Ubaldo](https://jennubaldo.com)  
 Jenn is an experienced SEO consultant and expert in GA4 analytics.
+
