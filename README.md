@@ -2,7 +2,8 @@
 [Custom App Development](#custom-app-development) |
 [Notes](#notes) |
 [About Me/Contact](#about-mecontact) |
-[SEO](#seo)
+[SEO](#seo) |
+[Legal Terms & Conditions](legal-terms-&-conditions)
 
 ## Theme Development (Shopify Theme Development + Integrations)
 
@@ -161,4 +162,29 @@ Components across tiers are flexible and customizable—feel free to mix and mat
 
 Highly recommended: [Jenn Ubaldo](https://jennubaldo.com)  
 Jenn is an experienced SEO consultant and expert in GA4 analytics.
+
+## Legal Terms & Conditions
+
+### Payment & Delivery Terms
+Work begins once the agreed deposit or full payment has been received. Delayed payments may result in paused development and rescheduled timelines.
+
+While I strive to meet all estimated delivery windows, timelines may shift due to feedback cycles, unexpected technical complexity, or third-party dependencies (e.g. app integrations, client responsiveness). I will communicate proactively if delays occur.
+
+### Project Pauses
+If the client is unresponsive for more than **10 business days** at any point during the project, the timeline will be considered **paused**. Resuming may require rebooking and may result in a new timeline and additional fees.
+
+### Final Payment & Handover
+Final handoff (deployment to live store, theme zip delivery, or access to private repos) will only occur once **all outstanding invoices are paid in full**. Until then, all deliverables remain in staging or developer-access state.
+
+### Refund Policy
+All payments are non-refundable unless otherwise agreed upon in writing. If a project is canceled **before** development begins, a **partial refund (up to 50%)** may be issued at my discretion. Once work has started, all payments are considered earned.
+
+### License Enforcement (Kill Switch)
+Use of the theme is licensed, not sold. If payment terms are breached, or licensing terms are violated, I reserve the right to revoke access, disable updates, or remotely restrict theme use (when technically applicable). Unauthorized use may result in retroactive licensing fees and/or legal action.
+
+### Support Boundaries
+All projects include a post-delivery support window (15–30 days depending on tier). Support includes bug fixes and guidance related to the original scope. It does **not** include new features, content changes, third-party issues, or general store management. Support beyond this window is billed at the hourly retainer rate.
+
+### Limitation of Liability
+I am not liable for any direct or indirect losses, damages, or revenue impacts resulting from project delays, technical bugs, app malfunctions, platform updates (e.g. Shopify changes), or client-side modifications made after delivery.
 
