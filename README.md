@@ -11,13 +11,13 @@ Specializing in Shopify 2.0 themes, I build manually coded, fast-loading, mobile
 
 ### Pricing
 
-#### ✅ Tier 1: Basic Theme *(Starting at $3000, 4-6 weeks)*
+#### ✅ Tier 1: Basic Theme *(Starting at $6000, 4-6 weeks)*
 - Development Store Creation
 - Custom Template & Editable Sections
 - Basic Shopify & Domain Setup
 - Support & Bug Fixing (15 days post-delivery)
 
-#### 🚀 Tier 2: Advanced Theme *(Starting at $5000, 4-10 weeks)*
+#### 🚀 Tier 2: Advanced Theme *(Starting at $9000, 4-10 weeks)*
 _All Tier 1 features plus:_
 - 1-2 Custom Functionalities
 - Metafield Creation & Integration
@@ -25,14 +25,14 @@ _All Tier 1 features plus:_
 - Multi-Language Support & Unlimited Product Tags
 - Support & Bug Fixing (30 days post-delivery)
 
-#### 🌟 Tier 3: Premium Theme *(Starting at $7000, 6-12 weeks)*
+#### 🌟 Tier 3: Premium Theme *(Starting at $11000, 6-12 weeks)*
 _All Tier 1 & 2 features plus:_
 - Choose custom sections from my [demo store](https://thecoolagency.store/)
 - Integrated Editable Animation Library
 - Lighthouse Scores Optimized to 85+ (SEO, Accessibility, Performance, Best Practices)
 - External Sales Channel Setup
 
-#### 🔐 Tier 4: Premium Theme + Private User Portal *(Starting at $8000, 12+ weeks)*
+#### 🔐 Tier 4: Premium Theme + Private User Portal *(Starting at $15000, 12+ weeks)*
 _All Tier 1-3 features plus:_
 - Private User Portal (VIP, Wholesale)
 - Custom Pages & Navigation per Account Type
@@ -63,24 +63,24 @@ _All Tier 1-3 features plus:_
 ### Expedited Delivery Pricing  
 
 **Tier 1: Basic Theme (Starting at $3000)**  
-- **3–5 days (+75%) $5250**  
-- **5–10 days (+50%) $4500**  
-- **10–14 days (+35%) $4050**  
+- **3–5 days (+75%)
+- **5–10 days (+50%)
+- **10–14 days (+35%)
 
 **Tier 2: Advanced Theme (Starting at $5000)**  
-- **3–5 days (+80%) $9000**  
-- **5–10 days (+55%) $7750**  
-- **10–14 days (+40%) $7000**  
+- **3–5 days (+80%)
+- **5–10 days (+55%)
+- **10–14 days (+40%)
 
 **Tier 3: Premium Theme (Starting at $7000)**  
-- **3–5 days (+85%) $12,950**  
-- **5–10 days (+60%) $11,200**  
-- **10–14 days (+45%) $10,150**  
+- **3–5 days (+85%)
+- **5–10 days (+60%)
+- **10–14 days (+45%)
 
 **Tier 4: Premium + Private Portal (Starting at $8000)**  
-- **3–5 days (+90%) $15,200**  
-- **5–10 days (+65%) $13,200**  
-- **10–14 days (+50%) $12,000**  
+- **3–5 days (+90%)
+- **5–10 days (+65%)
+- **10–14 days (+50%)
 
 **Tier 5: Fully Custom Theme**  
 Expedited delivery and pricing customized after intake.  
