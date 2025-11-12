@@ -27,7 +27,7 @@ _All Tier 1 features plus:_
 
 #### 🌟 Tier 3: Premium Theme *(Starting at $11000, 6-12 weeks)*
 _All Tier 1 & 2 features plus:_
-- Choose custom sections from my [demo store](https://thecoolagency.store/)
+- Choose custom sections from my librairy
 - Integrated Editable Animation Library
 - Lighthouse Scores Optimized to 85+ (SEO, Accessibility, Performance, Best Practices)
 - External Sales Channel Setup
