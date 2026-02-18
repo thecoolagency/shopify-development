@@ -165,6 +165,17 @@ Jenn is an experienced SEO consultant and expert in GA4 analytics.
 
 ## Legal Terms & Conditions
 
+```
+Acceptance. Client’s payment of any invoice, deposit, or first milestone constitutes acceptance of this Proposal and Agreement.
+Footer credit clause (strong + realistic)
+```
+
+**Attribution**. Unless otherwise agreed in writing, Developer may include a small, unobtrusive credit in the website footer (e.g., “Site by The Cool Agency” with a link). Client may request removal at any time for a removal fee determined at the time of the request, payable **prior** to removal. Removing, obscuring, or modifying the credit without written permission constitutes a material breach of this Agreement.
+
+```
+No Hidden Terms. Client acknowledges the terms in this Proposal are reasonable, visible, and were available prior to payment. As linked on the Scope of Work sent.
+```
+
 ### Payment & Delivery Terms
 Work begins once the agreed deposit or full payment has been received. Delayed payments may result in paused development and rescheduled timelines.
 
